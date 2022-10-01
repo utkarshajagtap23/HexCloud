@@ -343,7 +343,7 @@ p {
 
 
 .video-header video {
-  background-image: url('../images/bg2.mp4');
+  
   object-fit: cover;
 }
 
